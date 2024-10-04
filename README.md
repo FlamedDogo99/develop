@@ -1,1 +1,1 @@
-## This is a fork of [mathquill](https://github.com/mathquill/mathquill)
+## This is a fork of [mathquill](https://github.com/mathquill/mathquill).
